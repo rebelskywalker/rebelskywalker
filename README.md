@@ -1,9 +1,11 @@
-<h1 align='center'>
-  <img src="obiwan_hello_there.jpg" alt="Obi-Wan Kenobi Hello There" width="600" height="500">
-  <img src=obi-wan-kenobi-hello-there.gif alt="Excited GIF">
-</br>
-  
-</h1>
+<div align="center">
+  <img src="obi-wan-kenobi-hello-there.gif" alt="Obi-Wan Kenobi Hello There" width="200" style="margin-right: 20px;">
+  <img src="milfalcon.jpg" alt="millenium falcon hyperspace" width="200" style="margin-left: 20px;">
+  <div>
+    <h1>Hello There! 👋</h1>
+    <p>Welcome to my GitHub profile! I'm glad you stopped by. Feel free to explore my repositories and contributions.</p>
+  </div>
+</div>
 
 <p align='center'>
   A mobile and .net developer from Brazil.
