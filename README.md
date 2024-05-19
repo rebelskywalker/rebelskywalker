@@ -13,6 +13,11 @@ UCLA | CSE
 ###
 How to reach me: <a href=”mailto:scjcbaker24@gmail.com”>scjcbaker24@gmail.com</a>
 
+-----
+
+## Top repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebelskywalker&repo=CS211&theme=github_dark)](https://github.com/rebelskywalker/CS%20211)
+
 
 <!--
 **rebelskywalker/rebelskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
