@@ -1,7 +1,8 @@
 <h1 align='center'>
-  <img src="obiwan_hello_there.jpg" alt="Obi-Wan Kenobi Hello There">
+  <img src="obiwan_hello_there.jpg" alt="Obi-Wan Kenobi Hello There" width="600" height="500">
+  <img src=obi-wan-kenobi-hello-there.gif alt="Excited GIF">
 </br>
-  I'm Christopher </br> Welcome to my Github Portfolio.
+  
 </h1>
 
 <p align='center'>
