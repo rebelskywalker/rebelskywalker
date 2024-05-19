@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="obi-wan-kenobi-hello-there.gif" alt="Obi-Wan Kenobi Hello There" width="auto" height="325" style="margin-right: 20px;">
-  <img src="milfalcon.jpg" alt="Millennium Falcon Hyperspace" height="325" width="auto" style="margin-left: 20px;">
+  <img src="obi-wan-kenobi-hello-there.gif" alt="Obi-Wan Kenobi Hello There" width="auto" height="300" style="margin-right: 20px;">
+  <img src="milfalcon.jpg" alt="Millennium Falcon Hyperspace" height="300" width="auto" style="margin-left: 20px;">
   <div>
     <h1>Hello There! 👋</h1>
     <p>Welcome to my GitHub profile! I'm glad you stopped by. Feel free to explore my repositories and contributions.</p>
