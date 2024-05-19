@@ -16,7 +16,7 @@ How to reach me: <a href=”mailto:scjcbaker24@gmail.com”>scjcbaker24@gmail.co
 -----
 
 ## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebelskywalker&repo=CS211&theme=github_dark)](https://github.com/rebelskywalker/CS%20211)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebelskywalker&repo=CIS-211&theme=github_dark)](https://github.com/rebelskywalker/CIS-211)
 
 
 <!--
