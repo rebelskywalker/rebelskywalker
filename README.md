@@ -1,12 +1,17 @@
 <!-- ###### HEAD ##### -->
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px;">
+  
   <img width=100% title="Christopher Baker" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,20&height=180&section=header&text=Christopher%20Baker&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  <img id="obiwan" img src="obi-wan-kenobi-hello-there.gif" alt="Obi-Wan Kenobi Hello There" width="auto" height="300" style="margin-right: 20px;">
-  <img src="milfalcon.jpg" alt="Millennium Falcon Hyperspace" height="300" width="auto" style="margin-left: 20px;">
+  
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" min-width="380px" max-width="400px"  align="center"> 
+ </br>
+ 
   <div>
-    <h1>Hello There! 👋</h1>
-    <p>Welcome to my GitHub profile! I'm glad you stopped by. Feel free to explore my repositories and contributions.</p>
+    <h1>
+       <img src="rebelskywalker/hello.jpg" min-width="380px" max-width="400px" width="350px" align="left"> 
+      Welcome to my GitHub profile and programming portfolio!
+    </h1>
   </div>
 </div>
 
@@ -38,7 +43,7 @@
 </p>
 
 
-<img src=<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" min-width="380px" max-width="400px" width="350px" align="right"> <br>
+
 
 
 
