@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello, my name is Christopher Baker 👋
+----
+# Get to know me
+
+Institution | Degrees 
+---- | ----
+UCLA | CSE
+
+- I am interested in working with Software Development, Video Game Development, Data Science, AI, ML
+
+-----
+
+###
+How to reach me: <a href=”mailto:scjcbaker24@gmail.com”>scjcbaker24@gmail.com</a>
+
 
 <!--
 **rebelskywalker/rebelskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
