@@ -1,31 +1,36 @@
-<!-- ###### HEAD ##### -->
-<div align="center" style="background-color: #f0f0f0; padding: 20px;"> 
-  <img width=100% title="Christopher Baker" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,20&height=180&section=header&text=Christopher%20Baker&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<div align="center" style="background-color: #f0f0f0; padding: 20px;">
+  <img width="100%" title="Christopher Baker" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,20&height=180&section=header&text=Christopher%20Baker&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rebelskywalker&label=Visitors&color=0e75b6&style=flat" alt="Visitors count to rebelskywalker" /> <img src="https://img.shields.io/github/followers/rebelskywalker?label=Followers&style=flat&color=0e75b6" alt="rebelskywalker"/>
-    
- <a href="https://github.com/rebelskywalker?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rebelskywalker"/></a>
  
- <a href="mailto:scjcbaker24@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>    
-  </a>
-  </p>
- </div>
+</div>
+
 <p align="center">
- <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello+There+World!+🌎;Welcome+to+my+profile+😇;I'm+glad+you+landed+here+😀;May+The+Force+Be+With+You😊"></a>
+  <a href="#">
+    <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello+There+World!+🌎;Welcome+to+my+profile+😇;I'm+glad+you+landed+here+😀;May+The+Force+Be+With+You😊">
+  </a>
 </p>
 
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<img src="files/hello.jpg" min-width="380px" max-width="400px" width="50%" height="65%" align="left">
+<div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="files/hello.jpg" min-width="380px" max-width="400px" width="50%" height="65%" align="left">
+</div>
 
-### 📃 Ready for hire: [My Resume](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf)
-### 🧠 Experience: Video Games, Software, Data, Ml, AI, Security, Networks
-### 🎓 Graduated from <b> UCLA </b> with a B.S. in <b> Computer Science and Engineering </b>
-### 🎓 Graduated from <b> Cypress College </b> with AA's in <b> Arts & Humanities </b>, <b> Mathematics & Science </b>
-### 💻 8+ years of programming
+### 💻 Experience: 
+#### Video Games, Software Development, Data Science, Machine Learning, Artificial Intelligence, Cyber Security, Networks
+#### 8+ Years
+### 🎓 Education:
+##### University of California, Los Angeles (UCLA): Bachelor of Science in Computer Science and Engineering
+#####  Cypress College: Associate of Arts in Arts & Humanities,  Associate of Arts in Mathematics & Science
 
+
+
+
+<div style="margin-left: 55%;">
+  
+
+
+
+</div>
 
 <!---
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -113,12 +118,6 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
   <a href="https://github.com/rebelskywalker"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Video%20Game%20Developer;📲%20App%20Developer;🤝%208%2B%20years%20of%20coding%20experience;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-
-
-
-
-
-
 ### 📧 Connect with me:
 <!-- style=flat-square& -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:scjcbaker24@gmail.com)](mailto:scjcbaker24@gmail.com)
@@ -134,7 +133,7 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 
 | Institution                           | Major                          | Degree Type | Completed |
 |---------------------------------------|--------------------------------|-------------|-----------|
-| University of California, Los Angeles | Computer Science & Engineering| B.S.        | 2023      |
+| University of California, Los Angeles | Computer Science & Engineering | B.S.        | 2023      |
 | Cypress College                       | Arts & Humanities              | A.A.        | 2018      |
 | Cypress College                       | Mathematics & Science          | A.A.        | 2018      |
 
@@ -143,31 +142,38 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 </details>
 
 
-  <details>	
-  <summary><b>🏆 Awards & Honors</b></summary><br>
-    | Institution                           | Major                          | Degree Type | Completed |
-|---------------------------------------|--------------------------------|-------------|-----------|
-| University of California, Los Angeles | Computer Science & Engineering| B.S.        | 2023      |
-| Cypress College                       | Arts & Humanities              | A.A.        | 2018      |
-| Cypress College                       | Mathematics & Science          | A.A.        | 2018      |
- <div align="center">
+<details>	
+  <summary><b>🏆 Awards & Honors</b></summary>
 
- </details>
+| Award                               | Institution                                                | Year       |
+|-------------------------------------|------------------------------------------------------------|------------|
+| Acacia Foundation Scholarship       | UCLA: ACACIA Foundation                                                      | 2019-2023  |
+| Research Scholarship                | Annual Biomedical Research Conference for Minoritized Students | 2019   |
+| Research Presentation Award         | Annual Biomedical Research Conference for Minoritized Students | 2019   |
+| Dorm Floor Officer - Engagement     | UCLA: Rieber Terrace                                      | 2019       |
+| Team IBM Leader/Trivia Bowl Contestant | HENAAC                                                  | 2018       |
+| Certified Tutor Level 2             | College Reading and Learning Association                  | 2018       |
+| Certified Tutor Level 1             | College Reading and Learning Association                  | 2017       |
+| Honors Club President               | Cypress College                                           | 2016-2017 |
+| Employee of the Year                | Ruby's Diner                                              | 2015       |
+| State Representative                | Order of DeMolay                                          | 2011-2013 |
+</details>
 
- <details>	
+
+<details>	
   <summary><b> Work History and Non Profit </b></summary><br>
 
-| Title                                 | Company                                | Brief | Years |
-|---------------------------------------|----------------------------------------|-------|-------|
-| Manager/Lead/Server                   | Melody Bar and Grill                   |       | 5     |
-| Employee Safety Manager/Shift Lead    | Ruby's Diner                           |       | 7     |
-| Game Developer Researcher Intern      | University at Buffalo, SUNY            |       | <1    |
-| Computer Store Tech/Associate         | University of CA, Los Angeles          |       | 1     |
-| Data Scientist Intern                 | Lemonade/Cookies                       |       | <1    |
-| Southern California Jurisdiction Master Councilor | DeMolay International       |       | 2     |
-| Supplemental Instructor and Tutor     | Cypress College                        |       | 3     |
-
+| Title                                 | Company                                | Years |
+|---------------------------------------|----------------------------------------|-------|
+| Employee Safety Manager/Shift Lead    | Ruby's Diner                           | 7     |
+| Manager/Lead/Server                   | Melody Bar and Grill                   | 5     |
+| Supplemental Instructor and Tutor     | Cypress College                        | 3     |
+| Southern California Jurisdiction Master Councilor | DeMolay International       | 2     |
+| Computer Store Tech/Associate         | University of CA, Los Angeles          | 1     |
+| Data Scientist Intern                 | Lemonade/Cookies                       | <1    |
+| Game Developer Researcher Intern      | University at Buffalo, SUNY            | <1    |
 </details>
+
 
 
  <details>
@@ -211,8 +217,18 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 
 
 
-
-
+<!--- removed for later use of sponsors etc
+ <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rebelskywalker&label=Visitors&color=0e75b6&style=flat" alt="Visitors count to rebelskywalker" />
+    <img src="https://img.shields.io/github/followers/rebelskywalker?label=Followers&style=flat&color=0e75b6" alt="rebelskywalker"/>
+    <a href="https://github.com/rebelskywalker?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rebelskywalker"/>
+    </a>
+    <a href="mailto:scjcbaker24@gmail.com">
+      <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>  
+    </a>
+  </p>
+  ---> 
 
 <!--- 
 References for coding:
