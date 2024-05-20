@@ -54,24 +54,9 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 <a href="https://github.com/rebelskywalker">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
- 
 
-<h3 align="center">
-  <!--- This has the  --->
-  <!---
- <a href="https://github.com/walidbosso">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a>
- <a href="https://github.com/walidbosso">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a>
-   --->
-  
-  
-  <h3 align="left">
-    <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture> 
+<h3 align="left"> 
     【﻿ Skills and Toolsets】 
-    <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture> 
 </h3>
 
 <a href="https://github.com/rebelskywalker">
@@ -98,7 +83,7 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 <h3 align="left">
- ⭐ 【﻿ I Am The Developer You Are Looking For 】⭐   
+【﻿ I Am The Developer You Are Looking For 】   
 </h3>
 <a href="https://github.com/rebelskywalker">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
@@ -166,7 +151,7 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 </a>
 
 <h3 align="left">
- 📊 【 Github 】📊   
+  【 Github 】   
 </h3>
 <a href="https://github.com/rebelskywalker">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
@@ -188,7 +173,7 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 </a>
 
 <h3 align="left">
- 📧 【 Connect with me 】📧   
+  【 Connect with me 】   
 </h3>
 
 <a href="https://github.com/rebelskywalker">
