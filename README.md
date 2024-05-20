@@ -98,5 +98,10 @@ How to reach me: <a href=”mailto:scjcbaker24@gmail.com”>scjcbaker24@gmail.co
 
 -----
 
-
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/rebelskwyalker/count.svg" alt=""/></td>
+  </tr>
+</table>
 
