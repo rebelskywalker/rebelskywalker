@@ -18,13 +18,13 @@
 </p>
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<img src="files/hello.jpg" min-width="380px" max-width="400px" width="350px" align="left">
+<img src="files/hello.jpg" min-width="380px" max-width="400px" width="50%" height="65%" align="left">
 
-### 📃 Ready for hire: [Christopher's Resume 2024](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf)
-### 🧠 Experience in Software Development, Video Game Programming, Data Science, Security, Networks, Data Science, ML, AI, and more.
+### 📃 Ready for hire: [My Resume](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf)
+### 🧠 Experience: Video Games, Software, Data, Ml, AI, Security, Networks
 ### 🎓 Graduated from <b> UCLA </b> with a B.S. in <b> Computer Science and Engineering </b>
 ### 🎓 Graduated from <b> Cypress College </b> with AA's in <b> Arts & Humanities </b>, <b> Mathematics & Science </b>
-### 👷‍♂️ 8+ years of programming
+### 💻 8+ years of programming
 
 
 <!---
@@ -61,7 +61,12 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
    --->
- 【﻿💻 Skills and Toolsets 💻】  
+  
+  
+  <h3 align="center">
+    <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture> 
+    【﻿ Skills and Toolsets】 
+    <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture> 
 </h3>
 
 <a href="https://github.com/rebelskywalker">
@@ -70,7 +75,7 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 
 |         Programming      | Frameworks/Libs | ML     |  IDEs     |  OS    |       
 | :----------------:       | :------:        | :----: | :---:     | :---:  | 
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)       |  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)    | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)      |  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)    |   
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)       |  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)    | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&color=grey&logoColor=black) | ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)      |  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)    |   
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)       |   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)   | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)     |   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)    |     
 |   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)   |  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)   | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)      |   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)    |     |    |  
 | ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) |  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)    |  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)     |     
@@ -124,29 +129,46 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 [![Discord](https://img.shields.io/badge/-Shakib-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/moshakib/)](https://discordapp.com/users/732774519802036294)
 --->	
 
- <details>	
+<details>	
   <summary><b>🏫 My Education</b></summary><br>
- <div align="center">
-Institution | Major | Degree Type | Completed |
----- | ---- | ---- | ---- | 
-University of California, Los Angeles | Computer Science & Engineering | B.S. | 2023 |
-Cypress College | Arts & Humanities | A.A. | 2018 |
-Cypress College | Mathematics & Science | A.A. | 2018 |
 
-- I am interested in working with Software Development, Video Game Development, Data Science, AI, ML
- </details>
+| Institution                           | Major                          | Degree Type | Completed |
+|---------------------------------------|--------------------------------|-------------|-----------|
+| University of California, Los Angeles | Computer Science & Engineering| B.S.        | 2023      |
+| Cypress College                       | Arts & Humanities              | A.A.        | 2018      |
+| Cypress College                       | Mathematics & Science          | A.A.        | 2018      |
+
+- I am interested in working with Software Development, Video Game Development, Data Science, AI, ML, Cyber Security/Vulnerabilities, Networks.
+- Enthusiastic to work in many industries, including: Video Game, Defense, Space, Big Tech, Startups
+</details>
+
 
   <details>	
   <summary><b>🏆 Awards & Honors</b></summary><br>
+    | Institution                           | Major                          | Degree Type | Completed |
+|---------------------------------------|--------------------------------|-------------|-----------|
+| University of California, Los Angeles | Computer Science & Engineering| B.S.        | 2023      |
+| Cypress College                       | Arts & Humanities              | A.A.        | 2018      |
+| Cypress College                       | Mathematics & Science          | A.A.        | 2018      |
  <div align="center">
 
  </details>
 
-  <details>	
-  <summary><b> Work History </b></summary><br>
- <div align="center">
+ <details>	
+  <summary><b> Work History and Non Profit </b></summary><br>
 
- </details>
+| Title                                 | Company                                | Brief | Years |
+|---------------------------------------|----------------------------------------|-------|-------|
+| Manager/Lead/Server                   | Melody Bar and Grill                   |       | 5     |
+| Employee Safety Manager/Shift Lead    | Ruby's Diner                           |       | 7     |
+| Game Developer Researcher Intern      | University at Buffalo, SUNY            |       | <1    |
+| Computer Store Tech/Associate         | University of CA, Los Angeles          |       | 1     |
+| Data Scientist Intern                 | Lemonade/Cookies                       |       | <1    |
+| Southern California Jurisdiction Master Councilor | DeMolay International       |       | 2     |
+| Supplemental Instructor and Tutor     | Cypress College                        |       | 3     |
+
+</details>
+
 
  <details>
   <summary><b>📊 Github Stats</b></summary><br>
