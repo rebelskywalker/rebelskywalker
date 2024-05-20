@@ -1,19 +1,27 @@
 <!-- ###### HEAD ##### -->
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px;">
-  
+<div align="center" style="background-color: #f0f0f0; padding: 20px;"> 
   <img width=100% title="Christopher Baker" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,20&height=180&section=header&text=Christopher%20Baker&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+ </div>
+
+
+
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<img src="hello.jpg" min-width="380px" max-width="400px" width="300px" align="left">
+
+### Ready for hire in any development or engineering role.
+### Experience in Software Development, Video Game Programming, Data Science, Security, Networks, Data Science, ML, AI, and more.
+### Graduated from <b> UCLA </b> with a B.S. in <b> Computer Science and Engineering </b>
+### Graduated from <b> Cypress College </b> with AA's in <b> Arts & Humanities </b>, <b> Mathematics & Science </b>
+
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" min-width="380px" max-width="400px"  align="center"> 
  </br>
- 
-  <div>
-    <h1>
-       <img src="rebelskywalker/hello.jpg" min-width="380px" max-width="400px" width="350px" align="left"> 
-      Welcome to my GitHub profile and programming portfolio!
-    </h1>
-  </div>
-</div>
+
+
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
 <p align="center">
