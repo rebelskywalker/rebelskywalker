@@ -212,3 +212,8 @@ How to reach me: <a href=”mailto:scjcbaker24@gmail.com”>scjcbaker24@gmail.co
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  <!-- ###### After blue line ##### -->
 
+<!--- 
+References for coding:
+https://github.com/Ileriayo/markdown-badges
+
+--->
