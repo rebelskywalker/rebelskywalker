@@ -1,10 +1,10 @@
 <!-- ###### HEAD ##### -->
-
 <div align="center" style="background-color: #f0f0f0; padding: 20px;"> 
   <img width=100% title="Christopher Baker" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,20&height=180&section=header&text=Christopher%20Baker&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
  </div>
-
-
+<p align="center">
+ <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello+There+World!+🌎;Welcome+to+my+profile+😇;I'm+glad+you+landed+here+😀;May+The+Force+Be+With+You😊"></a>
+</p>
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <img src="hello.jpg" min-width="380px" max-width="400px" width="300px" align="left">
@@ -15,13 +15,26 @@
 ### Graduated from <b> Cypress College </b> with AA's in <b> Arts & Humanities </b>, <b> Mathematics & Science </b>
 
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-  
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" min-width="380px" max-width="400px"  align="center"> 
+  <!-- ###### END OF HEAD ##### -->
+
+<h2 align="center">
+  Skills and Toolsets
+</h2>
+
+Category | Sets |
+---- | ---- | 
+Skills | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) | 
+IDES |  |
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+   <!-- ###### BEFORE MARIO PIC ##### -->
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" min-width="380px" max-width="400px"  align="center"> 
  </br>
 
-
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+ <!-- ###### After blue line ##### -->
 
 
 <p align="center">
@@ -56,7 +69,7 @@
 
 
 
-<!-- ###### END OF HEAD ##### -->
+
 
 
 
@@ -102,6 +115,16 @@
   <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macOS-555555?logo=apple&logoColor=white"></a>
 </p>
 
+ <h2 align="center">
+📊 My Github Stats 📊
+</h2>
+ <details>	
+  <summary><b>🔥 Github Streaks</b></summary><br>
+ <div align="center">
+<a href="http://www.github.com/pal-sandeep"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
+<a href="http://www.github.com/pal-sandeep"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-sandeep&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/pal-sandeep"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+ </details>
 
 
 ----
