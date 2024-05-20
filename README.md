@@ -97,7 +97,7 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
    --->
- 【﻿💻 Roles and Battlestation 💻】  
+ 【﻿💻 Roles and Stats 💻】  
 </h3>
 <a href="https://github.com/rebelskywalker">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
@@ -114,45 +114,20 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 
 
 
-### 🔗 Connect with me:
+### 📧 Connect with me:
 <!-- style=flat-square& -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:mo.shakib.official@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Shakib-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shakib/)](https://www.linkedin.com/in/mo-shakib/)
+[![Linkedin Badge](https://img.shields.io/badge/-Chris%20Baker-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cbeng24/)](https://www.linkedin.com/in/cbeng24/)
 [![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/shak1b/)](https://www.facebook.com/MoShakib.official/)
-[![Twitter](https://img.shields.io/badge/@Mo__Shakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mo__Shakib)
-[![Reddit](https://img.shields.io/badge/@mo__shakib-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mo__shakib)
 [![Discord](https://img.shields.io/badge/-Shakib-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/moshakib/)](https://discordapp.com/users/732774519802036294)
-[![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
 
 
-### 🛠 Tools:
-<p>
-<!--   <a href="#"><img alt="" src=""></a> -->
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="" src="https://img.shields.io/badge/Sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
-  <a href="#"><img alt="" src="https://img.shields.io/badge/IntelliJIDEA-5d9425.svg?logo=intellij-idea&logoColor=white"></a>
-  <a href="#"><img alt="" src="https://img.shields.io/badge/Xcode-0078d7.svg?logo=xcode&logoColor=white"></a>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-<!--   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a> -->
-  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
-  <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macOS-555555?logo=apple&logoColor=white"></a>
-</p>
 
- <h2 align="center">
-📊 My Github Stats 📊
-</h2>
+	
+
  <details>	
-  <summary><b>🔥 Github Streaks</b></summary><br>
+  <summary><b>🏫 My Education</b></summary><br>
  <div align="center">
-<a href="http://www.github.com/pal-sandeep"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
-<a href="http://www.github.com/pal-sandeep"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-sandeep&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/pal-sandeep"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
- </details>
-
-
-----
-# Get to know me
-
 Institution | Major | Degree Type | Completed |
 ---- | ---- | ---- | ---- | 
 University of California, Los Angeles | Computer Science & Engineering | B.S. | 2023 |
@@ -160,44 +135,39 @@ Cypress College | Arts & Humanities | A.A. | 2018 |
 Cypress College | Mathematics & Science | A.A. | 2018 |
 
 - I am interested in working with Software Development, Video Game Development, Data Science, AI, ML
+ </details>
 
------
-[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebelskywalker)](https://github.com/rebelskywalker/github-readme-stats)
+  <details>	
+  <summary><b>🏆 Awards & Honors</b></summary><br>
+ <div align="center">
 
+ </details>
 
+  <details>	
+  <summary><b> Work History </b></summary><br>
+ <div align="center">
 
-----
+ </details>
 
-###
-How to reach me: <a href=”mailto:scjcbaker24@gmail.com”>scjcbaker24@gmail.com</a>
+ <details>
+  <summary><b>📊 Github Stats</b></summary><br>
+ <div align="center">
+<a href="http://www.github.com/pal-sandeep"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="rebelskywalker's GitHub stats"/></a>
+<a href="http://www.github.com/pal-sandeep"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-sandeep&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/pal-sandeep"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 
------
-
-## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebelskywalker&repo=CIS-211&theme=github_dark)](https://github.com/rebelskywalker/CIS-211)
-
------
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebelskywalker&repo=CIS-211&theme=github_dark)](https://github.com/rebelskywalker/CIS-211)
+ </details>
 
 <table align="center">
   <tr>
-    <td>You are visitor</td>
+    <td>👾  You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/rebelskwyalker/count.svg" alt=""/></td>
   </tr>
 </table>
 
-   <!-- ###### BEFORE MARIO PIC ##### -->
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" min-width="380px" max-width="400px"  align="center"> 
- </br>
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
- <!-- ###### After blue line ##### -->
-
-<!--- 
-References for coding:
-https://github.com/Ileriayo/markdown-badges
-
---->
-
+----
 
 ### 🐍 Contribution snake
 
@@ -206,4 +176,29 @@ https://github.com/Ileriayo/markdown-badges
   <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
+
+-----
+
+
+
+   <!-- ###### BEFORE MARIO PIC ##### -->
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" min-width="380px" max-width="400px"  align="center"> 
+ </br>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+ <!-- ###### After blue line ##### -->
+
+
+
+
+
+
+<!--- 
+References for coding:
+https://github.com/Ileriayo/markdown-badges
+
+--->
+
+
+
 
