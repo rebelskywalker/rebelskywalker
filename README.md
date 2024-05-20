@@ -12,15 +12,15 @@
 
 <div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <img src="files/hello.jpg" min-width="380px" max-width="400px" width="50%" height="65%" align="left">
+  <img src="files/hello.jpg" min-width="380px" max-width="350px" width="350" height="350" align="left">
 </div>
 
-### 💻 Experience: 
-#### Video Games, Software Development, Data Science, Machine Learning, Artificial Intelligence, Cyber Security, Networks
-#### 8+ Years
+### 💻 Experience:
+#### View my <u>[Resume](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf) </u>
+#### 8+ years of xp covering Video Games, Software Development, Data Science, Machine Learning, Artificial Intelligence, Cyber Security, Networks
 ### 🎓 Education:
-##### University of California, Los Angeles (UCLA): Bachelor of Science in Computer Science and Engineering
-#####  Cypress College: Associate of Arts in Arts & Humanities,  Associate of Arts in Mathematics & Science
+#### University of California, Los Angeles (UCLA): Bachelor of Science in Computer Science and Engineering
+####  Cypress College: Associate of Arts in Arts & Humanities,  Associate of Arts in Mathematics & Science
 
 
 
@@ -68,7 +68,7 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
    --->
   
   
-  <h3 align="center">
+  <h3 align="left">
     <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture> 
     【﻿ Skills and Toolsets】 
     <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture> 
@@ -97,39 +97,20 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
   <a href="https://github.com/rebelskywalker">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
-<h3 align="center">
-  <!--- This has the  --->
-  <!---
- <a href="https://github.com/walidbosso">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a>
- <a href="https://github.com/walidbosso">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a>
-   --->
- 【﻿💻 Roles and Stats 💻】  
+<h3 align="left">
+ ⭐ 【﻿ I Am The Developer You Are Looking For 】⭐   
 </h3>
 <a href="https://github.com/rebelskywalker">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
-
-
   <p align="center">
   <a href="https://github.com/rebelskywalker"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Video%20Game%20Developer;📲%20App%20Developer;🤝%208%2B%20years%20of%20coding%20experience;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-### 📧 Connect with me:
-<!-- style=flat-square& -->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:scjcbaker24@gmail.com)](mailto:scjcbaker24@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cgb24/)](https://www.linkedin.com/in/cgb24/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/christopher.g.baker.24)](https://www.facebook.com/christopher.g.baker.24)
-[![Github Badge](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white&link=https://https://github.com/rebelskywalker)](https://github.com/rebelskywalker)
-<!--- Change their discord to yours
-[![Discord](https://img.shields.io/badge/-Shakib-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/moshakib/)](https://discordapp.com/users/732774519802036294)
---->	
 
 <details>	
   <summary><b>🏫 My Education</b></summary><br>
+  <div align="center">
 
 | Institution                           | Major                          | Degree Type | Completed |
 |---------------------------------------|--------------------------------|-------------|-----------|
@@ -137,13 +118,16 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 | Cypress College                       | Arts & Humanities              | A.A.        | 2018      |
 | Cypress College                       | Mathematics & Science          | A.A.        | 2018      |
 
-- I am interested in working with Software Development, Video Game Development, Data Science, AI, ML, Cyber Security/Vulnerabilities, Networks.
-- Enthusiastic to work in many industries, including: Video Game, Defense, Space, Big Tech, Startups
+### I am interested in working with Software Development, Video Game Development, Data Science, AI, ML, Cyber Security/Vulnerabilities, Networks.
+### Enthusiastic to work in many industries, including: Video Game, Defense, Space, Big Tech, Startups
+<br>
+</div>
 </details>
 
 
 <details>	
   <summary><b>🏆 Awards & Honors</b></summary>
+  <div align="center">
 
 | Award                               | Institution                                                | Year       |
 |-------------------------------------|------------------------------------------------------------|------------|
@@ -157,11 +141,13 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 | Honors Club President               | Cypress College                                           | 2016-2017 |
 | Employee of the Year                | Ruby's Diner                                              | 2015       |
 | State Representative                | Order of DeMolay                                          | 2011-2013 |
+</div>
 </details>
 
 
 <details>	
-  <summary><b> Work History and Non Profit </b></summary><br>
+  <summary><b> 🏢  Work History</b></summary><br>
+  <div align="center">
 
 | Title                                 | Company                                | Years |
 |---------------------------------------|----------------------------------------|-------|
@@ -172,19 +158,51 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 | Computer Store Tech/Associate         | University of CA, Los Angeles          | 1     |
 | Data Scientist Intern                 | Lemonade/Cookies                       | <1    |
 | Game Developer Researcher Intern      | University at Buffalo, SUNY            | <1    |
+</div>
 </details>
 
+<a href="https://github.com/rebelskywalker">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
-
+<h3 align="left">
+ 📊 【 Github 】📊   
+</h3>
+<a href="https://github.com/rebelskywalker">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
  <details>
-  <summary><b>📊 Github Stats</b></summary><br>
+  <summary><b>﻿ <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px align="center">  Stats </picture>   </b></summary><br>
+   <div align="center">
  <div align="center">
-<a href="http://www.github.com/pal-sandeep"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="rebelskywalker's GitHub stats"/></a>
-<a href="http://www.github.com/pal-sandeep"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-sandeep&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/pal-sandeep"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/rebelskywalker"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=rebelskywalker&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="rebelskywalker's GitHub stats"/></a>
+<a href="http://www.github.com/rebelskywalker"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebelskywalker&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/rebelskywalker"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rebelskywalker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebelskywalker&repo=CIS-211&theme=github_dark)](https://github.com/rebelskywalker/CIS-211)
+   </div>
  </details>
+
+  <a href="https://github.com/rebelskywalker">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="left">
+ 📧 【 Connect with me 】📧   
+</h3>
+
+<a href="https://github.com/rebelskywalker">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+<div align="center">
+  
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" > [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:scjcbaker24@gmail.com)](mailto:scjcbaker24@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cgb24/)](https://www.linkedin.com/in/cgb24/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/christopher.g.baker.24)](https://www.facebook.com/christopher.g.baker.24) [![Github Badge](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white&link=https://github.com/rebelskywalker)](https://github.com/rebelskywalker)
+  
+
+  
+</div>
+
+
 
 <table align="center">
   <tr>
