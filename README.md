@@ -20,7 +20,7 @@
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <img src="hello.jpg" min-width="380px" max-width="400px" width="300px" align="left">
 
-### Ready for hire in any development or engineering role: CLick Here for my [Resume] (rebelskywalker/resume.pdf)
+### Ready for hire in any development or engineering role: Click Here for my [Resume] (rebelskywalker/resume.pdf)
 ### Experience in Software Development, Video Game Programming, Data Science, Security, Networks, Data Science, ML, AI, and more.
 ### Graduated from <b> UCLA </b> with a B.S. in <b> Computer Science and Engineering </b>
 ### Graduated from <b> Cypress College </b> with AA's in <b> Arts & Humanities </b>, <b> Mathematics & Science </b>
