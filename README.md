@@ -23,11 +23,10 @@
 
 Category | Sets |
 ---- | ---- | 
-Skills | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) | 
-IDES |  |
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+Skills | [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,java,ocaml,py,react )](https://skillicons.dev) | 
+Tools | [![My Skills](https://skillicons.dev/icons?i=github,emacs,gamemakerstudio,matlab,powershell,pytorch,stackoverflow,unity )](https://skillicons.dev) |
+IDEs/OS | [![My Skills](https://skillicons.dev/icons?i=visualstudio,anaconda,pycharm,linux,ubuntu,windows,apple )](https://skillicons.dev) |
+Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin,twitter )](https://skillicons.dev) |
 
    <!-- ###### BEFORE MARIO PIC ##### -->
  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" min-width="380px" max-width="400px"  align="center"> 
@@ -37,22 +36,16 @@ IDES |  |
  <!-- ###### After blue line ##### -->
 
 
-<p align="center">
-<a href="https://nemonet-profile.netlify.app"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</p>
- <p align="center">
-  <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
-  <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
-  <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
-  </p>
-
   
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=The-Young-Programmer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/The-Young-Programmer?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
- <a href="https://github.com/The-Young-Programmer?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/The-Young-Programmer"/></a>
- <a href="mailto:the.young.programmer.team@gmail.com">
+  <img src="https://komarev.com/ghpvc/?username=rebelskywalker&label=Visitors&color=0e75b6&style=flat" alt="Visitors count to rebelskywalker" /> <img src="https://img.shields.io/github/followers/rebelskywalker?label=Followers&style=flat&color=0e75b6" alt="rebelskywalker"/>
+    
+ <a href="https://github.com/rebelskywalker?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rebelskywalker"/></a>
+ 
+ <a href="mailto:scjcbaker24@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+   
   </a>
   </p>
 
