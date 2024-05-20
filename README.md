@@ -1,4 +1,4 @@
-<!-- ###### HEAD ##### -->
+s <!-- ###### HEAD ##### -->
 <div align="center" style="background-color: #f0f0f0; padding: 20px;"> 
   <img width=100% title="Christopher Baker" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,20&height=180&section=header&text=Christopher%20Baker&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
  </div>
@@ -18,7 +18,7 @@
   <!-- ###### END OF HEAD ##### -->
 
 <h2 align="center">
-  Skills and Toolsets
+  My Skills, Tools, and Workspace
 </h2>
 
 Category | Sets |
@@ -27,6 +27,7 @@ Skills | [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,java,
 Tools | [![My Skills](https://skillicons.dev/icons?i=github,emacs,gamemakerstudio,matlab,powershell,pytorch,stackoverflow,unity )](https://skillicons.dev) |
 IDEs/OS | [![My Skills](https://skillicons.dev/icons?i=visualstudio,anaconda,pycharm,linux,ubuntu,windows,apple )](https://skillicons.dev) |
 Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin,twitter )](https://skillicons.dev) |
+
 
    <!-- ###### BEFORE MARIO PIC ##### -->
  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" min-width="380px" max-width="400px"  align="center"> 
