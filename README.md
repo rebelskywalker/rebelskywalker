@@ -116,14 +116,13 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 
 ### 📧 Connect with me:
 <!-- style=flat-square& -->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:mo.shakib.official@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Chris%20Baker-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cbeng24/)](https://www.linkedin.com/in/cbeng24/)
-[![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/shak1b/)](https://www.facebook.com/MoShakib.official/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:scjcbaker24@gmail.com)](mailto:scjcbaker24@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cgb24/)](https://www.linkedin.com/in/cgb24/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/christopher.g.baker.24)](https://www.facebook.com/christopher.g.baker.24)
+[![Github Badge](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white&link=https://https://github.com/rebelskywalker)](https://github.com/rebelskywalker)
+<!--- Change their discord to yours
 [![Discord](https://img.shields.io/badge/-Shakib-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/moshakib/)](https://discordapp.com/users/732774519802036294)
-
-
-
-	
+--->	
 
  <details>	
   <summary><b>🏫 My Education</b></summary><br>
