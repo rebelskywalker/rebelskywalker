@@ -20,11 +20,11 @@
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <img src="files/hello.jpg" min-width="380px" max-width="400px" width="350px" align="left">
 
-### Ready for hire: [Christopher's Resume 2024](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf))
-### Experience in Software Development, Video Game Programming, Data Science, Security, Networks, Data Science, ML, AI, and more.
-### Graduated from <b> UCLA </b> with a B.S. in <b> Computer Science and Engineering </b>
-### Graduated from <b> Cypress College </b> with AA's in <b> Arts & Humanities </b>, <b> Mathematics & Science </b>
-### 8+ years of programming
+### 📃 Ready for hire: [Christopher's Resume 2024](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf))
+### 🧠 Experience in Software Development, Video Game Programming, Data Science, Security, Networks, Data Science, ML, AI, and more.
+### 🎓 Graduated from <b> UCLA </b> with a B.S. in <b> Computer Science and Engineering </b>
+### 🎓 Graduated from <b> Cypress College </b> with AA's in <b> Arts & Humanities </b>, <b> Mathematics & Science </b>
+### 👷‍♂️ 8+ years of programming
 
 
 <!---
@@ -97,17 +97,12 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
    --->
- 【﻿💻 Workspace and Connection 💻】  
+ 【﻿💻 Roles and Battlestation 💻】  
 </h3>
 <a href="https://github.com/rebelskywalker">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
-
-
-
-
-  
 
   <p align="center">
   <a href="https://github.com/rebelskywalker"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Video%20Game%20Developer;📲%20App%20Developer;🤝%208%2B%20years%20of%20coding%20experience;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
@@ -129,22 +124,6 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 [![Discord](https://img.shields.io/badge/-Shakib-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/moshakib/)](https://discordapp.com/users/732774519802036294)
 [![Spotify Badge](https://img.shields.io/badge/-Shakib-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
 
-
-### ⚡ Skills:
-[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
-[![Swift](https://img.shields.io/badge/-Swift-5e5e5e?logo=swift)](#)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
-
-<!-- [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#) -->
-<!-- [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#) -->
-<!-- [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](#) -->
-<!-- style=flat-square& -->
 
 ### 🛠 Tools:
 <p>
@@ -218,3 +197,13 @@ References for coding:
 https://github.com/Ileriayo/markdown-badges
 
 --->
+
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
+
