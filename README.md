@@ -4,16 +4,34 @@
  
 </div>
 
-<p align="center">
+<p align="left">
   <a href="#">
     <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello+There+World!+🌎;Welcome+to+my+profile+😇;I'm+glad+you+landed+here+😀;May+The+Force+Be+With+You😊">
   </a>
 </p>
 
-<div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<a href="https://github.com/rebelskywalker">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="left"> 
+    【﻿ Meet the developer】 
+</h3>
+
+<a href="https://github.com/rebelskywalker">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<!--- Faster Line
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+--->
+
+<div>  
   <img src="files/hello.jpg" min-width="380px" max-width="350px" width="350" height="350" align="left">
 </div>
+
+
 
 ### 💻 Experience:
 #### View my <u>[Resume](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf) </u>
