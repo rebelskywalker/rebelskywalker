@@ -1,12 +1,10 @@
-<div align="center" style="background-color: #f0f0f0; padding: 20px;">
+<div align="center" style="background-color: #f0f0f0; ">
   <img width="100%" title="Christopher Baker" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,20&height=180&section=header&text=Christopher%20Baker&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
- 
 </div>
 
-<p align="left">
+<p align="center">
   <a href="#">
-    <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello+There+World!+🌎;Welcome+to+my+profile+😇;I'm+glad+you+landed+here+😀;May+The+Force+Be+With+You😊">
+    <img width="550px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello+There+World!+🌎;Welcome+to+my+profile+😇;I'm+glad+you+landed+here+😀;May+The+Force+Be+With+You😊">
   </a>
 </p>
 
@@ -28,26 +26,110 @@
 --->
 
 <div>  
-  <img src="files/hello.jpg" min-width="380px" max-width="350px" width="350" height="350" align="left">
+  <img src="files/hello.jpg" min-width="380px" max-width="35p0x" width="120" height="120" align="left">
 </div>
+<br> <br>
 
 
 
-### 💻 Experience:
-#### View my <u>[Resume](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf) </u>
-#### 8+ years of xp covering Video Games, Software Development, Data Science, Machine Learning, Artificial Intelligence, Cyber Security, Networks
-### 🎓 Education:
-#### University of California, Los Angeles (UCLA): Bachelor of Science in Computer Science and Engineering
-####  Cypress College: Associate of Arts in Arts & Humanities,  Associate of Arts in Mathematics & Science
+#### 📂 View my <u>[Resume](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf) </u>
+---
+
+<details>	
+  <summary><b>🎓  University of California, Los Angeles: Computer Science and Engineering Graduate</b></summary><br>
+  <div align="center">
+
+| Institution                           | Major                          | Degree Type | Completed |
+|---------------------------------------|--------------------------------|-------------|-----------|
+| UCLA | CSE | B.S.        | 2023      |
+|| Tech Breadth: Management | NA | 2023
+
+<br>
+</div>
+</details>
+
+<details>	
+  <summary><b>🎓  Cypress College Math/Science, Arts/Humanities Graduate </b></summary><br>
+  <div align="center">
+
+| Institution                           | Major/Minor                          | Degree Type | Completed |
+|---------------------------------------|--------------------------------|-------------|-----------|
+| Cypress College                       | Arts & Humanities              | A.A.        | 2018      |
+|                       | Mathematics & Science          | A.A.        | 2018      |
+|| Computer Programming | Minor Emphasis |2018 
+
+<br>
+</div>
+</details>
 
 
+<details>	
+  <summary><b>🏆 Awards & Honors</b></summary>
+  <div align="center">
 
+| Award                               | Institution                                                | Year       |
+|-------------------------------------|------------------------------------------------------------|------------|
+| Acacia Foundation Scholarship       | UCLA: ACACIA Foundation                                                      | 2019-2023  |
+| Research Scholarship                | Annual Biomedical Research Conference for Minoritized Students | 2019   |
+| Research Presentation Award         | Annual Biomedical Research Conference for Minoritized Students | 2019   |
+| Dorm Floor Officer - Engagement     | UCLA: Rieber Terrace                                      | 2019       |
+| Team IBM Leader/Trivia Bowl Contestant | HENAAC                                                  | 2018       |
+| Certified Tutor Level 2             | College Reading and Learning Association                  | 2018       |
+| Certified Tutor Level 1             | College Reading and Learning Association                  | 2017       |
+| Honors Club President               | Cypress College                                           | 2016-2017 |
+| Employee of the Year                | Ruby's Diner                                              | 2015       |
+| State Representative                | Order of DeMolay                                          | 2011-2013 |
+<br>
+</div>
+</details>
+
+
+<details>	
+  <summary><b> 🏢  Work History</b></summary><br>
+  <div align="center">
+
+| Title                                 | Company                                | Years |
+|---------------------------------------|----------------------------------------|-------|
+| Employee Safety Manager/Shift Lead    | Ruby's Diner                           | 7     |
+| Manager/Lead/Server                   | Melody Bar and Grill                   | 5     |
+| Supplemental Instructor and Tutor     | Cypress College                        | 3     |
+| Southern California Jurisdiction Master Councilor | DeMolay International       | 2     |
+| Computer Store Tech/Associate         | University of CA, Los Angeles          | 1     |
+| Data Scientist Intern                 | Lemonade/Cookies                       | <1    |
+| Game Developer Researcher Intern      | University at Buffalo, SUNY            | <1    |
+<br>
+</div>
+</details>
+
+<details>	
+  <summary><b> ⛺   Interests</b></summary><br>
+  <div align="center">
+
+| Category                                 | Elements/Description |
+|---------------------------------------|----------------------------------------|
+| Current Experience | Software Development, Video Game Development, Data Science, AI, ML, Cyber Security/Vulnerabilities, Networks. 
+| Curious Indstries | Video Game, Defense, Space, Big Tech, Startups |
+| Hobbies| Coding, Basketball, Snowboarding, Video Games, Dancing, Singing, Camping, Hiking |
+<br>
+</div>
+</details>
+
+ <details>
+  <summary><b>﻿ <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px align="center">  Stats </picture>   </b></summary><br>
+   <div align="center">
+
+     
+# General Stats
+<a href="http://www.github.com/rebelskywalker"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=rebelskywalker&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="rebelskywalker's GitHub stats"/></a>
+<a href="http://www.github.com/rebelskywalker"><img alt="TYP Top Language" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebelskywalker&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/rebelskywalker"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rebelskywalker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "86%"/></a>
+
+# Pinned Repos:
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebelskywalker&repo=CIS-211&theme=github_dark)](https://github.com/rebelskywalker/CIS-211)
+   </div>
+ </details>
 
 <div style="margin-left: 55%;">
-  
-
-
-
 </div>
 
 <!---
@@ -100,95 +182,7 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
   <a href="https://github.com/rebelskywalker">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
-<h3 align="left">
-【﻿ I Am The Developer You Are Looking For 】   
-</h3>
-<a href="https://github.com/rebelskywalker">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
-  <p align="center">
-  <a href="https://github.com/rebelskywalker"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Video%20Game%20Developer;📲%20App%20Developer;🤝%208%2B%20years%20of%20coding%20experience;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
 
-
-<details>	
-  <summary><b>🏫 My Education</b></summary><br>
-  <div align="center">
-
-| Institution                           | Major                          | Degree Type | Completed |
-|---------------------------------------|--------------------------------|-------------|-----------|
-| University of California, Los Angeles | Computer Science & Engineering | B.S.        | 2023      |
-| Cypress College                       | Arts & Humanities              | A.A.        | 2018      |
-| Cypress College                       | Mathematics & Science          | A.A.        | 2018      |
-
-### I am interested in working with Software Development, Video Game Development, Data Science, AI, ML, Cyber Security/Vulnerabilities, Networks.
-### Enthusiastic to work in many industries, including: Video Game, Defense, Space, Big Tech, Startups
-<br>
-</div>
-</details>
-
-
-<details>	
-  <summary><b>🏆 Awards & Honors</b></summary>
-  <div align="center">
-
-| Award                               | Institution                                                | Year       |
-|-------------------------------------|------------------------------------------------------------|------------|
-| Acacia Foundation Scholarship       | UCLA: ACACIA Foundation                                                      | 2019-2023  |
-| Research Scholarship                | Annual Biomedical Research Conference for Minoritized Students | 2019   |
-| Research Presentation Award         | Annual Biomedical Research Conference for Minoritized Students | 2019   |
-| Dorm Floor Officer - Engagement     | UCLA: Rieber Terrace                                      | 2019       |
-| Team IBM Leader/Trivia Bowl Contestant | HENAAC                                                  | 2018       |
-| Certified Tutor Level 2             | College Reading and Learning Association                  | 2018       |
-| Certified Tutor Level 1             | College Reading and Learning Association                  | 2017       |
-| Honors Club President               | Cypress College                                           | 2016-2017 |
-| Employee of the Year                | Ruby's Diner                                              | 2015       |
-| State Representative                | Order of DeMolay                                          | 2011-2013 |
-</div>
-</details>
-
-
-<details>	
-  <summary><b> 🏢  Work History</b></summary><br>
-  <div align="center">
-
-| Title                                 | Company                                | Years |
-|---------------------------------------|----------------------------------------|-------|
-| Employee Safety Manager/Shift Lead    | Ruby's Diner                           | 7     |
-| Manager/Lead/Server                   | Melody Bar and Grill                   | 5     |
-| Supplemental Instructor and Tutor     | Cypress College                        | 3     |
-| Southern California Jurisdiction Master Councilor | DeMolay International       | 2     |
-| Computer Store Tech/Associate         | University of CA, Los Angeles          | 1     |
-| Data Scientist Intern                 | Lemonade/Cookies                       | <1    |
-| Game Developer Researcher Intern      | University at Buffalo, SUNY            | <1    |
-</div>
-</details>
-
-<a href="https://github.com/rebelskywalker">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-
-<h3 align="left">
-  【 Github 】   
-</h3>
-<a href="https://github.com/rebelskywalker">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
- <details>
-  <summary><b>﻿ <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px align="center">  Stats </picture>   </b></summary><br>
-   <div align="center">
- <div align="center">
-<a href="http://www.github.com/rebelskywalker"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=rebelskywalker&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="rebelskywalker's GitHub stats"/></a>
-<a href="http://www.github.com/rebelskywalker"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebelskywalker&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/rebelskywalker"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rebelskywalker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
-
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebelskywalker&repo=CIS-211&theme=github_dark)](https://github.com/rebelskywalker/CIS-211)
-   </div>
- </details>
-
-  <a href="https://github.com/rebelskywalker">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
 
 <h3 align="left">
   【 Connect with me 】   
