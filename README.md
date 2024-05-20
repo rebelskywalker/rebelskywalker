@@ -18,13 +18,14 @@
 </p>
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<img src="files/hello.jpg" min-width="380px" max-width="400px" width="300px" align="left">
+<img src="files/hello.jpg" min-width="380px" max-width="400px" width="350px" align="left">
 
-### Ready for hire in any development or engineering role: Click Here for my [Resume] (https://github.com/rebelskywalker/files/resume.pdf)
+### Ready for hire: [Christopher's Resume 2024](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf))
 ### Experience in Software Development, Video Game Programming, Data Science, Security, Networks, Data Science, ML, AI, and more.
 ### Graduated from <b> UCLA </b> with a B.S. in <b> Computer Science and Engineering </b>
 ### Graduated from <b> Cypress College </b> with AA's in <b> Arts & Humanities </b>, <b> Mathematics & Science </b>
 ### 8+ years of programming
+
 
 <!---
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
