@@ -194,12 +194,8 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 <div align="center">
   
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" > [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:scjcbaker24@gmail.com)](mailto:scjcbaker24@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cgb24/)](https://www.linkedin.com/in/cgb24/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/christopher.g.baker.24)](https://www.facebook.com/christopher.g.baker.24) [![Github Badge](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white&link=https://github.com/rebelskywalker)](https://github.com/rebelskywalker)
-  
-
-  
+    
 </div>
-
-
 
 <table align="center">
   <tr>
@@ -210,6 +206,9 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 
 
 ----
+<!---
+
+![Snake animation](https://github.com/rebelskywalker/rebelskywalker/blob/output/github-contribution-grid-snake.svg)
 
 ### 🐍 Contribution snake
 
@@ -220,8 +219,7 @@ Productivity/Social | [![My Skills](https://skillicons.dev/icons?i=gmail,instagr
 </picture>
 
 -----
-
-
+--->
 
    <!-- ###### BEFORE MARIO PIC ##### -->
  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" min-width="380px" max-width="400px"  align="center"> 
