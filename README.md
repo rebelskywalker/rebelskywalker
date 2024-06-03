@@ -32,7 +32,7 @@
 
 
 
-#### 📂 View my <u>[Resume](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/resume.pdf) </u>
+#### 📂 View my <u>[Resume](https://github.com/rebelskywalker/rebelskywalker/blob/main/files/Christopher_Baker_Resume_June_2024.pdf) </u>
 ---
 
 <details>	
