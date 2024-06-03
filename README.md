@@ -52,11 +52,11 @@
   <summary><b>🎓  Cypress College Math/Science, Arts/Humanities Graduate </b></summary><br>
   <div align="center">
 
-| Institution                           | Major/Minor                          | Degree Type | Completed |
-|---------------------------------------|--------------------------------|-------------|-----------|
-| Cypress College                       | Arts & Humanities              | A.A.        | 2018      |
-|                       | Mathematics & Science          | A.A.        | 2018      |
-|| Computer Programming | Minor Emphasis |2018 
+| Institution                           | Degree Completed              | Degree Type |
+|---------------------------------------|-------------------------------|-------------|
+| Cypress College                       | Arts & Humanities            | A.A.        |
+| Cypress College                       | Mathematics & Science        | A.A.        |
+|                                       | Computer Programming (Minor Emphasis) | -           |
 
 <br>
 </div>
@@ -67,18 +67,22 @@
   <summary><b>🏆 Awards & Honors</b></summary>
   <div align="center">
 
-| Award                               | Institution                                                | Year       |
-|-------------------------------------|------------------------------------------------------------|------------|
-| Acacia Foundation Scholarship       | UCLA: ACACIA Foundation                                                      | 2019-2023  |
-| Research Scholarship                | Annual Biomedical Research Conference for Minoritized Students | 2019   |
-| Research Presentation Award         | Annual Biomedical Research Conference for Minoritized Students | 2019   |
-| Dorm Floor Officer - Engagement     | UCLA: Rieber Terrace                                      | 2019       |
-| Team IBM Leader/Trivia Bowl Contestant | HENAAC                                                  | 2018       |
-| Certified Tutor Level 2             | College Reading and Learning Association                  | 2018       |
-| Certified Tutor Level 1             | College Reading and Learning Association                  | 2017       |
-| Honors Club President               | Cypress College                                           | 2016-2017 |
-| Employee of the Year                | Ruby's Diner                                              | 2015       |
-| State Representative                | Order of DeMolay                                          | 2011-2013 |
+Sure, here's the table without the timestamps:
+
+
+| Award                               | Institution                                                |
+|-------------------------------------|------------------------------------------------------------|
+| Acacia Foundation Scholarship       | UCLA: ACACIA Foundation                                   |
+| Research Scholarship                | Annual Biomedical Research Conference for Minoritized Students |
+| Research Presentation Award         | Annual Biomedical Research Conference for Minoritized Students |
+| Dorm Floor Officer - Engagement     | UCLA: Rieber Terrace                                      |
+| Team IBM Leader/Trivia Bowl Contestant | HENAAC                                                  |
+| Certified Tutor Level 2             | College Reading and Learning Association                  |
+| Certified Tutor Level 1             | College Reading and Learning Association                  |
+| Honors Club President               | Cypress College                                           |
+| Employee of the Year                | Ruby's Diner                                              |
+| State Representative                | Order of DeMolay                                          |
+
 <br>
 </div>
 </details>
@@ -88,15 +92,18 @@
   <summary><b> 🏢  Work History</b></summary><br>
   <div align="center">
 
-| Title                                 | Company                                | Years |
-|---------------------------------------|----------------------------------------|-------|
-| Employee Safety Manager/Shift Lead    | Ruby's Diner                           | 7     |
-| Manager/Lead/Server                   | Melody Bar and Grill                   | 5     |
-| Supplemental Instructor and Tutor     | Cypress College                        | 3     |
-| Southern California Jurisdiction Master Councilor | DeMolay International       | 2     |
-| Computer Store Tech/Associate         | University of CA, Los Angeles          | 1     |
-| Data Scientist Intern                 | Lemonade/Cookies                       | <1    |
-| Game Developer Researcher Intern      | University at Buffalo, SUNY            | <1    |
+| Title                                          | Company                                | Years |
+|-----------------------------------------------|----------------------------------------|-------|
+| Software Engineer and Game Design Instructor  | Code Ninjas                            | <1    |
+| Game Developer Researcher Intern              | University at Buffalo, SUNY            | <1    |
+| Data Scientist/Machine Learning Intern        | Lemonade/Cookies                       | <1    |
+| Computer Store Tech/Associate                 | University of CA, Los Angeles          | 1     |
+| State Jurisdictional Master Councilor         |  DeMolay International                 | 2     |
+| Coding and STEM Supplemental Instructor/Tutor | Cypress College                        | 3     |
+| Manager & Shift Lead                          | Melody Bar and Grill                   | 5     |
+| Safety Manager & Shift Lead                   | Ruby's Diner                           | 7     |
+
+
 <br>
 </div>
 </details>
